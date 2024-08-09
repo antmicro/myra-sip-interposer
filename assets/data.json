@@ -1,5 +1,5 @@
 {
-    "id": "myra-sip",
+    "id": "myra-sip-interposer",
     "componentIds": [
         "yageo-cc0201krx6s5bb104",
         "murata-grm033r61c105me15d",

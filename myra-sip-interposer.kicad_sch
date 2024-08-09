@@ -5,7 +5,7 @@
   (paper "A3")
 
   (title_block
-    (title "MYRA SiP")
+    (title "Myra SiP Interposer")
     (date "2024-06-24")
     (rev "1.0.0")
     (company "Antmicro Ltd")
@@ -939,7 +939,7 @@
       (property "License" "Apache-2.0" (at 55.88 -15.24 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
       )
-      (property "GitHub" "https://github.com/antmicro/myra-sip " (at 55.88 -12.7 0)
+      (property "GitHub" "https://github.com/antmicro/myra-sip-interposer " (at 55.88 -12.7 0)
         (effects (font (size 1.27 1.27)) (justify left bottom) hide)
       )
       (property "ki_keywords" "IC, SMT" (at 0 0 0)
@@ -3178,7 +3178,7 @@
     )
     (pin "1" (uuid 25758fdc-b6d6-439e-89e2-eb5f863edc23))
     (instances
-      (project "myra-sip"
+      (project "myra-sip-interposer"
         (path "/8cc48464-ca7e-4a25-bb97-c95aa06b811c"
           (reference "#PWR09") (unit 1)
         )
@@ -3209,7 +3209,7 @@
     )
     (pin "1" (uuid 00645f5e-5b23-4335-b584-daed2e32a385))
     (instances
-      (project "myra-sip"
+      (project "myra-sip-interposer"
         (path "/8cc48464-ca7e-4a25-bb97-c95aa06b811c"
           (reference "#PWR030") (unit 1)
         )
@@ -3240,7 +3240,7 @@
     )
     (pin "1" (uuid 6da0cc55-b79e-413e-9381-cdf3c2244302))
     (instances
-      (project "myra-sip"
+      (project "myra-sip-interposer"
         (path "/8cc48464-ca7e-4a25-bb97-c95aa06b811c"
           (reference "#PWR031") (unit 1)
         )
@@ -3271,7 +3271,7 @@
     )
     (pin "1" (uuid cf1982b8-2adf-4d60-802f-606ac96c861b))
     (instances
-      (project "myra-sip"
+      (project "myra-sip-interposer"
         (path "/8cc48464-ca7e-4a25-bb97-c95aa06b811c"
           (reference "#PWR014") (unit 1)
         )
@@ -3302,7 +3302,7 @@
     )
     (pin "1" (uuid bcf499e6-03f3-4a26-8871-e65950542ff0))
     (instances
-      (project "myra-sip"
+      (project "myra-sip-interposer"
         (path "/8cc48464-ca7e-4a25-bb97-c95aa06b811c"
           (reference "#PWR01") (unit 1)
         )
@@ -3352,7 +3352,7 @@
     (pin "1" (uuid 11014f08-c8d0-4a57-8bf5-0b5948226f5c))
     (pin "2" (uuid edf9bd5b-9928-4066-9b73-bdd3663259c0))
     (instances
-      (project "myra-sip"
+      (project "myra-sip-interposer"
         (path "/8cc48464-ca7e-4a25-bb97-c95aa06b811c"
           (reference "C10") (unit 1)
         )
@@ -3402,7 +3402,7 @@
     (pin "1" (uuid f4a068ad-b297-46e5-81b7-5c08195ba8cd))
     (pin "2" (uuid 54693f8c-ebc5-4a6d-b34d-ca43aef45739))
     (instances
-      (project "myra-sip"
+      (project "myra-sip-interposer"
         (path "/8cc48464-ca7e-4a25-bb97-c95aa06b811c"
           (reference "C4") (unit 1)
         )
@@ -3452,7 +3452,7 @@
     (pin "1" (uuid 7baf64a5-b76b-47b1-a718-8f744556b094))
     (pin "2" (uuid 652c1f93-c6a3-4e8e-af97-d4f311c22f2e))
     (instances
-      (project "myra-sip"
+      (project "myra-sip-interposer"
         (path "/8cc48464-ca7e-4a25-bb97-c95aa06b811c"
           (reference "C21") (unit 1)
         )
@@ -3483,7 +3483,7 @@
     )
     (pin "1" (uuid a3540308-de78-4bca-98de-4069507616df))
     (instances
-      (project "myra-sip"
+      (project "myra-sip-interposer"
         (path "/8cc48464-ca7e-4a25-bb97-c95aa06b811c"
           (reference "#PWR028") (unit 1)
         )
@@ -3514,7 +3514,7 @@
     )
     (pin "1" (uuid 02bdd60d-9ad3-4789-add9-a2f4391f2be1))
     (instances
-      (project "myra-sip"
+      (project "myra-sip-interposer"
         (path "/8cc48464-ca7e-4a25-bb97-c95aa06b811c"
           (reference "#PWR038") (unit 1)
         )
@@ -3545,7 +3545,7 @@
     )
     (pin "1" (uuid f6cdedbc-fe3e-4b42-bea8-9552ea8dbb0f))
     (instances
-      (project "myra-sip"
+      (project "myra-sip-interposer"
         (path "/8cc48464-ca7e-4a25-bb97-c95aa06b811c"
           (reference "#PWR029") (unit 1)
         )
@@ -3576,7 +3576,7 @@
     )
     (pin "1" (uuid 9ffcb035-89f0-4995-9142-ca5fcff14c34))
     (instances
-      (project "myra-sip"
+      (project "myra-sip-interposer"
         (path "/8cc48464-ca7e-4a25-bb97-c95aa06b811c"
           (reference "#PWR032") (unit 1)
         )
@@ -3622,7 +3622,7 @@
     (pin "1" (uuid 98f1584b-5f72-4cc0-862c-94dcc710c10c))
     (pin "4" (uuid 0b1af53f-9247-4aa1-a889-a15cec5ec790))
     (instances
-      (project "myra-sip"
+      (project "myra-sip-interposer"
         (path "/8cc48464-ca7e-4a25-bb97-c95aa06b811c"
           (reference "Y2") (unit 1)
         )
@@ -3653,7 +3653,7 @@
     )
     (pin "1" (uuid 94e0cb9f-c812-44cb-a950-1b6054b62188))
     (instances
-      (project "myra-sip"
+      (project "myra-sip-interposer"
         (path "/8cc48464-ca7e-4a25-bb97-c95aa06b811c"
           (reference "#PWR07") (unit 1)
         )
@@ -3684,7 +3684,7 @@
     )
     (pin "1" (uuid 1859ddb2-18c6-4e91-ab65-fab799d97ca9))
     (instances
-      (project "myra-sip"
+      (project "myra-sip-interposer"
         (path "/8cc48464-ca7e-4a25-bb97-c95aa06b811c"
           (reference "#PWR019") (unit 1)
         )
@@ -3715,7 +3715,7 @@
     )
     (pin "1" (uuid ed98b46a-dbbe-4b85-aeb8-e31c377ee826))
     (instances
-      (project "myra-sip"
+      (project "myra-sip-interposer"
         (path "/8cc48464-ca7e-4a25-bb97-c95aa06b811c"
           (reference "#PWR039") (unit 1)
         )
@@ -3746,7 +3746,7 @@
     )
     (pin "1" (uuid 0c40eabd-3d84-46a9-8121-3f2458e3593d))
     (instances
-      (project "myra-sip"
+      (project "myra-sip-interposer"
         (path "/8cc48464-ca7e-4a25-bb97-c95aa06b811c"
           (reference "#PWR015") (unit 1)
         )
@@ -3796,7 +3796,7 @@
     (pin "2" (uuid d7211565-dd0a-4454-ac1e-6d4b8d0121f1))
     (pin "1" (uuid d5825095-b343-40ad-87f6-ed7841e98fb9))
     (instances
-      (project "myra-sip"
+      (project "myra-sip-interposer"
         (path "/8cc48464-ca7e-4a25-bb97-c95aa06b811c"
           (reference "C16") (unit 1)
         )
@@ -3821,7 +3821,7 @@
     )
     (pin "1" (uuid 11b8fbc8-9bc5-4745-baf2-4ed3da0d9423))
     (instances
-      (project "myra-sip"
+      (project "myra-sip-interposer"
         (path "/8cc48464-ca7e-4a25-bb97-c95aa06b811c"
           (reference "#PWR027") (unit 1)
         )
@@ -3856,7 +3856,7 @@
     (property "License" "Apache-2.0" (at 393.7 156.845 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
     )
-    (property "GitHub" "https://github.com/antmicro/myra-sip " (at 393.7 154.305 0)
+    (property "GitHub" "https://github.com/antmicro/myra-sip-interposer " (at 393.7 154.305 0)
       (effects (font (size 1.27 1.27)) (justify left bottom) hide)
     )
     (pin "Q3" (uuid 2ef5e164-b75c-447b-a238-9b4bd22b5e05))
@@ -3924,7 +3924,7 @@
     (pin "K1" (uuid af76af02-8844-4a56-af91-3c68605b2f53))
     (pin "K17" (uuid 507f0026-24a3-480b-8471-1c132699ff69))
     (instances
-      (project "myra-sip"
+      (project "myra-sip-interposer"
         (path "/8cc48464-ca7e-4a25-bb97-c95aa06b811c"
           (reference "U5") (unit 1)
         )
@@ -3974,7 +3974,7 @@
     (pin "1" (uuid 45cb5238-6048-4ce5-9d8b-593ed2b3d0f9))
     (pin "2" (uuid f340473c-23b1-4ac8-baca-1278119fd1ee))
     (instances
-      (project "myra-sip"
+      (project "myra-sip-interposer"
         (path "/8cc48464-ca7e-4a25-bb97-c95aa06b811c"
           (reference "C2") (unit 1)
         )
@@ -4005,7 +4005,7 @@
     )
     (pin "1" (uuid b291366a-3c47-4166-a4a7-6479bdf21285))
     (instances
-      (project "myra-sip"
+      (project "myra-sip-interposer"
         (path "/8cc48464-ca7e-4a25-bb97-c95aa06b811c"
           (reference "#PWR036") (unit 1)
         )
@@ -4049,7 +4049,7 @@
     (pin "2" (uuid 1129ac86-c764-4514-a495-ddbcf2d280d0))
     (pin "1" (uuid c45d8a64-7ede-4355-961a-e6d7b0b675ae))
     (instances
-      (project "myra-sip"
+      (project "myra-sip-interposer"
         (path "/8cc48464-ca7e-4a25-bb97-c95aa06b811c"
           (reference "Y1") (unit 1)
         )
@@ -4099,7 +4099,7 @@
     (pin "1" (uuid f93d4924-b688-4fa3-9fcd-48bc2ac3e3a7))
     (pin "2" (uuid 904623f8-850d-4d2e-92e0-3ddb156b6a2a))
     (instances
-      (project "myra-sip"
+      (project "myra-sip-interposer"
         (path "/8cc48464-ca7e-4a25-bb97-c95aa06b811c"
           (reference "C7") (unit 1)
         )
@@ -4149,7 +4149,7 @@
     (pin "2" (uuid ecbcebeb-2be4-4524-afa1-f121833f17de))
     (pin "1" (uuid 70970e31-d2ed-4d74-b8fb-0ea6376c90e3))
     (instances
-      (project "myra-sip"
+      (project "myra-sip-interposer"
         (path "/8cc48464-ca7e-4a25-bb97-c95aa06b811c"
           (reference "C15") (unit 1)
         )
@@ -4180,7 +4180,7 @@
     )
     (pin "1" (uuid 0b9e882e-47cb-4f90-9b98-3d6d74de9895))
     (instances
-      (project "myra-sip"
+      (project "myra-sip-interposer"
         (path "/8cc48464-ca7e-4a25-bb97-c95aa06b811c"
           (reference "#PWR025") (unit 1)
         )
@@ -4211,7 +4211,7 @@
     )
     (pin "1" (uuid 72bfbf89-c9ed-4c22-83de-555f854013fc))
     (instances
-      (project "myra-sip"
+      (project "myra-sip-interposer"
         (path "/8cc48464-ca7e-4a25-bb97-c95aa06b811c"
           (reference "#PWR06") (unit 1)
         )
@@ -4311,7 +4311,7 @@
     (pin "C4" (uuid cc45725c-2242-45c4-8a43-65959d29268f))
     (pin "F1" (uuid 452b60ee-76f0-47dd-952f-afb0b4e53393))
     (instances
-      (project "myra-sip"
+      (project "myra-sip-interposer"
         (path "/8cc48464-ca7e-4a25-bb97-c95aa06b811c"
           (reference "U4") (unit 1)
         )
@@ -4361,7 +4361,7 @@
     (pin "1" (uuid 0e4b962a-1f54-417d-b49c-5f73feac21d5))
     (pin "2" (uuid 014a8a93-adb6-434a-b219-968fa1b864ad))
     (instances
-      (project "myra-sip"
+      (project "myra-sip-interposer"
         (path "/8cc48464-ca7e-4a25-bb97-c95aa06b811c"
           (reference "C13") (unit 1)
         )
@@ -4392,7 +4392,7 @@
     )
     (pin "1" (uuid d3cf2269-e7d0-4248-bfe3-ef449944c3af))
     (instances
-      (project "myra-sip"
+      (project "myra-sip-interposer"
         (path "/8cc48464-ca7e-4a25-bb97-c95aa06b811c"
           (reference "#PWR02") (unit 1)
         )
@@ -4423,7 +4423,7 @@
     )
     (pin "1" (uuid 7a2512ef-4ab8-48c0-a130-b710d0037c75))
     (instances
-      (project "myra-sip"
+      (project "myra-sip-interposer"
         (path "/8cc48464-ca7e-4a25-bb97-c95aa06b811c"
           (reference "#PWR017") (unit 1)
         )
@@ -4470,7 +4470,7 @@
     (pin "2" (uuid 5d496c86-0c66-436b-8111-88888efaed38))
     (pin "1" (uuid efbf9108-6c01-40c7-bb4a-0468c06c2e57))
     (instances
-      (project "myra-sip"
+      (project "myra-sip-interposer"
         (path "/8cc48464-ca7e-4a25-bb97-c95aa06b811c"
           (reference "R5") (unit 1)
         )
@@ -4501,7 +4501,7 @@
     )
     (pin "1" (uuid 78ec0a05-ff6b-43b1-a755-29797d8d8ffb))
     (instances
-      (project "myra-sip"
+      (project "myra-sip-interposer"
         (path "/8cc48464-ca7e-4a25-bb97-c95aa06b811c"
           (reference "#PWR035") (unit 1)
         )
@@ -4548,7 +4548,7 @@
     (pin "2" (uuid cbd3f34d-2eb3-4cb5-9606-f663b8a9f618))
     (pin "1" (uuid 0448f498-900c-40e3-9b7f-245a9fdd8123))
     (instances
-      (project "myra-sip"
+      (project "myra-sip-interposer"
         (path "/8cc48464-ca7e-4a25-bb97-c95aa06b811c"
           (reference "R4") (unit 1)
         )
@@ -4579,7 +4579,7 @@
     )
     (pin "1" (uuid 84211cc7-4e61-4f38-8388-3354df76a9bf))
     (instances
-      (project "myra-sip"
+      (project "myra-sip-interposer"
         (path "/8cc48464-ca7e-4a25-bb97-c95aa06b811c"
           (reference "#PWR013") (unit 1)
         )
@@ -4604,7 +4604,7 @@
     )
     (pin "1" (uuid 76946a18-146d-4a8e-a149-071ace774515))
     (instances
-      (project "myra-sip"
+      (project "myra-sip-interposer"
         (path "/8cc48464-ca7e-4a25-bb97-c95aa06b811c"
           (reference "#PWR042") (unit 1)
         )
@@ -4648,7 +4648,7 @@
     (pin "2" (uuid 32e8f8a3-b3f4-4198-992c-5317fabe2e09))
     (pin "1" (uuid 36794952-6c62-4c83-8187-1f2e7fd6a407))
     (instances
-      (project "myra-sip"
+      (project "myra-sip-interposer"
         (path "/8cc48464-ca7e-4a25-bb97-c95aa06b811c"
           (reference "FB1") (unit 1)
         )
@@ -4698,7 +4698,7 @@
     (pin "1" (uuid 00e91637-d147-43b7-a9f4-4a397524e9e8))
     (pin "2" (uuid 7340d7d6-4a43-410b-b1fe-e50ca5ad864c))
     (instances
-      (project "myra-sip"
+      (project "myra-sip-interposer"
         (path "/8cc48464-ca7e-4a25-bb97-c95aa06b811c"
           (reference "C1") (unit 1)
         )
@@ -4748,7 +4748,7 @@
     (pin "1" (uuid ad0e5891-a4cb-47a8-abd6-c465cd0c3481))
     (pin "2" (uuid f257fcc2-080a-48bc-9d2a-e7c6d521dd7f))
     (instances
-      (project "myra-sip"
+      (project "myra-sip-interposer"
         (path "/8cc48464-ca7e-4a25-bb97-c95aa06b811c"
           (reference "C9") (unit 1)
         )
@@ -4779,7 +4779,7 @@
     )
     (pin "1" (uuid 60a5685e-78c2-4553-a62f-9e87de0393c9))
     (instances
-      (project "myra-sip"
+      (project "myra-sip-interposer"
         (path "/8cc48464-ca7e-4a25-bb97-c95aa06b811c"
           (reference "#PWR011") (unit 1)
         )
@@ -4829,7 +4829,7 @@
     (pin "1" (uuid 60ed65f0-6fe5-446c-9702-55ee4c73c8e9))
     (pin "2" (uuid ad870fbf-ab02-4507-b721-264c016271ee))
     (instances
-      (project "myra-sip"
+      (project "myra-sip-interposer"
         (path "/8cc48464-ca7e-4a25-bb97-c95aa06b811c"
           (reference "C22") (unit 1)
         )
@@ -4879,7 +4879,7 @@
     (pin "1" (uuid e4c1e429-d7e0-4847-a3f6-28d82e0d0322))
     (pin "2" (uuid 3f6e2f2f-364d-4c47-bb90-6f2e90283f3a))
     (instances
-      (project "myra-sip"
+      (project "myra-sip-interposer"
         (path "/8cc48464-ca7e-4a25-bb97-c95aa06b811c"
           (reference "C5") (unit 1)
         )
@@ -4910,7 +4910,7 @@
     )
     (pin "1" (uuid fd64c2cc-2bc1-43d4-bd55-8b3c8fac8bba))
     (instances
-      (project "myra-sip"
+      (project "myra-sip-interposer"
         (path "/8cc48464-ca7e-4a25-bb97-c95aa06b811c"
           (reference "#PWR012") (unit 1)
         )
@@ -4960,7 +4960,7 @@
     (pin "1" (uuid 3f5b593a-d8c4-4330-9548-dd00c58d55d8))
     (pin "2" (uuid c4dd5a72-83f4-489a-b57c-4dc5ffa9af32))
     (instances
-      (project "myra-sip"
+      (project "myra-sip-interposer"
         (path "/8cc48464-ca7e-4a25-bb97-c95aa06b811c"
           (reference "C12") (unit 1)
         )
@@ -5007,7 +5007,7 @@
     (pin "2" (uuid 379eb073-c360-47ce-a2eb-207f694b7f51))
     (pin "1" (uuid be04d17e-718a-49fe-a77a-b940b17bc903))
     (instances
-      (project "myra-sip"
+      (project "myra-sip-interposer"
         (path "/8cc48464-ca7e-4a25-bb97-c95aa06b811c"
           (reference "R3") (unit 1)
         )
@@ -5032,7 +5032,7 @@
     )
     (pin "1" (uuid 6d3055bc-51b6-4e9f-afa1-84b563930309))
     (instances
-      (project "myra-sip"
+      (project "myra-sip-interposer"
         (path "/8cc48464-ca7e-4a25-bb97-c95aa06b811c"
           (reference "#PWR021") (unit 1)
         )
@@ -5057,7 +5057,7 @@
     )
     (pin "1" (uuid d1d08264-37e2-41d5-9e43-8dca91b64681))
     (instances
-      (project "myra-sip"
+      (project "myra-sip-interposer"
         (path "/8cc48464-ca7e-4a25-bb97-c95aa06b811c"
           (reference "#PWR03") (unit 1)
         )
@@ -5088,7 +5088,7 @@
     )
     (pin "1" (uuid 823f497b-74ed-4711-8d27-92c00125ad09))
     (instances
-      (project "myra-sip"
+      (project "myra-sip-interposer"
         (path "/8cc48464-ca7e-4a25-bb97-c95aa06b811c"
           (reference "#PWR044") (unit 1)
         )
@@ -5132,7 +5132,7 @@
     (pin "1" (uuid 2d2148ef-e7b3-4fa2-975c-569cc482c44a))
     (pin "2" (uuid ee215f55-4d45-426a-adca-ec848d095e53))
     (instances
-      (project "myra-sip"
+      (project "myra-sip-interposer"
         (path "/8cc48464-ca7e-4a25-bb97-c95aa06b811c"
           (reference "R1") (unit 1)
         )
@@ -5157,7 +5157,7 @@
     )
     (pin "1" (uuid 492572d9-b253-4680-b38d-27cb90cb3f61))
     (instances
-      (project "myra-sip"
+      (project "myra-sip-interposer"
         (path "/8cc48464-ca7e-4a25-bb97-c95aa06b811c"
           (reference "#FLG02") (unit 1)
         )
@@ -5193,7 +5193,7 @@
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
     )
     (instances
-      (project "myra-sip"
+      (project "myra-sip-interposer"
         (path "/8cc48464-ca7e-4a25-bb97-c95aa06b811c"
           (reference "H1") (unit 1)
         )
@@ -5224,7 +5224,7 @@
     )
     (pin "1" (uuid 35c4e839-b43c-4a2e-a0b5-e691af4a8941))
     (instances
-      (project "myra-sip"
+      (project "myra-sip-interposer"
         (path "/8cc48464-ca7e-4a25-bb97-c95aa06b811c"
           (reference "#PWR047") (unit 1)
         )
@@ -5255,7 +5255,7 @@
     )
     (pin "1" (uuid d6523ef7-c802-4ae0-8b95-645694530561))
     (instances
-      (project "myra-sip"
+      (project "myra-sip-interposer"
         (path "/8cc48464-ca7e-4a25-bb97-c95aa06b811c"
           (reference "#PWR010") (unit 1)
         )
@@ -5286,7 +5286,7 @@
     )
     (pin "1" (uuid 3f8d77d0-df6d-48f5-bb99-25b710d7ccee))
     (instances
-      (project "myra-sip"
+      (project "myra-sip-interposer"
         (path "/8cc48464-ca7e-4a25-bb97-c95aa06b811c"
           (reference "#PWR023") (unit 1)
         )
@@ -5336,7 +5336,7 @@
     (pin "1" (uuid 533ea2f2-51a7-4c0f-b452-a5727322ca85))
     (pin "2" (uuid 70b7ebc5-8291-4660-9f2f-0ea53e05fd4c))
     (instances
-      (project "myra-sip"
+      (project "myra-sip-interposer"
         (path "/8cc48464-ca7e-4a25-bb97-c95aa06b811c"
           (reference "C6") (unit 1)
         )
@@ -5367,7 +5367,7 @@
     )
     (pin "1" (uuid 2271d626-7992-4936-8a42-f7e7be7986c9))
     (instances
-      (project "myra-sip"
+      (project "myra-sip-interposer"
         (path "/8cc48464-ca7e-4a25-bb97-c95aa06b811c"
           (reference "#PWR045") (unit 1)
         )
@@ -5424,7 +5424,7 @@
     (pin "5" (uuid b5765ec1-e09a-42fc-8933-116a6c6c12f5))
     (pin "6" (uuid 2dde4dcd-1060-478b-aaa7-d3eef55ec2de))
     (instances
-      (project "myra-sip"
+      (project "myra-sip-interposer"
         (path "/8cc48464-ca7e-4a25-bb97-c95aa06b811c"
           (reference "U1") (unit 1)
         )
@@ -5465,7 +5465,7 @@
     (pin "3" (uuid 8a014642-83a8-4b10-aa78-111c09673302))
     (pin "1" (uuid 8ffc4529-930b-4f39-8cf4-5717d952f79c))
     (instances
-      (project "myra-sip"
+      (project "myra-sip-interposer"
         (path "/8cc48464-ca7e-4a25-bb97-c95aa06b811c"
           (reference "U3") (unit 1)
         )
@@ -5496,7 +5496,7 @@
     )
     (pin "1" (uuid 83352542-ed48-4d3a-9c6e-24e300da0ba6))
     (instances
-      (project "myra-sip"
+      (project "myra-sip-interposer"
         (path "/8cc48464-ca7e-4a25-bb97-c95aa06b811c"
           (reference "#PWR016") (unit 1)
         )
@@ -5546,7 +5546,7 @@
     (pin "1" (uuid 3ac1f03f-6258-425d-85c5-d3ca55b228b9))
     (pin "2" (uuid da004c2d-95f8-4a40-99f8-170f9c6f0c55))
     (instances
-      (project "myra-sip"
+      (project "myra-sip-interposer"
         (path "/8cc48464-ca7e-4a25-bb97-c95aa06b811c"
           (reference "C11") (unit 1)
         )
@@ -5577,7 +5577,7 @@
     )
     (pin "1" (uuid 47c083ad-cb92-49a7-85e4-9e205d929f89))
     (instances
-      (project "myra-sip"
+      (project "myra-sip-interposer"
         (path "/8cc48464-ca7e-4a25-bb97-c95aa06b811c"
           (reference "#PWR018") (unit 1)
         )
@@ -5608,7 +5608,7 @@
     )
     (pin "1" (uuid e3ce3349-8910-4ae6-8379-503f1b91a410))
     (instances
-      (project "myra-sip"
+      (project "myra-sip-interposer"
         (path "/8cc48464-ca7e-4a25-bb97-c95aa06b811c"
           (reference "#PWR040") (unit 1)
         )
@@ -5639,7 +5639,7 @@
     )
     (pin "1" (uuid d75ad536-c742-436d-bc51-9f37bfded313))
     (instances
-      (project "myra-sip"
+      (project "myra-sip-interposer"
         (path "/8cc48464-ca7e-4a25-bb97-c95aa06b811c"
           (reference "#PWR05") (unit 1)
         )
@@ -5683,7 +5683,7 @@
     (pin "D2" (uuid 1d395532-5030-44c3-8e5d-e98a33124878))
     (pin "E3" (uuid ae737c7c-8c4e-4231-979c-cb4a726cdbcd))
     (instances
-      (project "myra-sip"
+      (project "myra-sip-interposer"
         (path "/8cc48464-ca7e-4a25-bb97-c95aa06b811c"
           (reference "U2") (unit 1)
         )
@@ -5714,7 +5714,7 @@
     )
     (pin "1" (uuid 7c2036f9-e782-43ca-b3a9-3f660114f58e))
     (instances
-      (project "myra-sip"
+      (project "myra-sip-interposer"
         (path "/8cc48464-ca7e-4a25-bb97-c95aa06b811c"
           (reference "#PWR041") (unit 1)
         )
@@ -5745,7 +5745,7 @@
     )
     (pin "1" (uuid ddd8dee5-15c4-4adb-934a-180b87708f9d))
     (instances
-      (project "myra-sip"
+      (project "myra-sip-interposer"
         (path "/8cc48464-ca7e-4a25-bb97-c95aa06b811c"
           (reference "#PWR022") (unit 1)
         )
@@ -5776,7 +5776,7 @@
     )
     (pin "1" (uuid 1084ff98-7027-41a4-a226-4ec73bc2650e))
     (instances
-      (project "myra-sip"
+      (project "myra-sip-interposer"
         (path "/8cc48464-ca7e-4a25-bb97-c95aa06b811c"
           (reference "#PWR04") (unit 1)
         )
@@ -5807,7 +5807,7 @@
     )
     (pin "1" (uuid 86ecc98b-bce3-4043-931c-9af6833bfc76))
     (instances
-      (project "myra-sip"
+      (project "myra-sip-interposer"
         (path "/8cc48464-ca7e-4a25-bb97-c95aa06b811c"
           (reference "#PWR020") (unit 1)
         )
@@ -5857,7 +5857,7 @@
     (pin "1" (uuid b849ea07-5bfa-4e58-bd49-7d3b4324a0b3))
     (pin "2" (uuid 0a523624-cded-4c16-b823-1882185a46a8))
     (instances
-      (project "myra-sip"
+      (project "myra-sip-interposer"
         (path "/8cc48464-ca7e-4a25-bb97-c95aa06b811c"
           (reference "C3") (unit 1)
         )
@@ -5907,7 +5907,7 @@
     (pin "1" (uuid 4eeeeb01-e4cd-437d-a854-dc93feb3c4c9))
     (pin "2" (uuid 444586d8-f816-428b-8783-6878dc211700))
     (instances
-      (project "myra-sip"
+      (project "myra-sip-interposer"
         (path "/8cc48464-ca7e-4a25-bb97-c95aa06b811c"
           (reference "C18") (unit 1)
         )
@@ -5957,7 +5957,7 @@
     (pin "1" (uuid cfda045e-9b56-4ded-b345-5a4829bdcb69))
     (pin "2" (uuid 8cd83d43-3026-4932-8807-277e9b44d3eb))
     (instances
-      (project "myra-sip"
+      (project "myra-sip-interposer"
         (path "/8cc48464-ca7e-4a25-bb97-c95aa06b811c"
           (reference "C8") (unit 1)
         )
@@ -6004,7 +6004,7 @@
     (pin "1" (uuid d90ade78-2d2f-42fd-b7f4-e824183666c9))
     (pin "2" (uuid 5c36ab30-9a3e-469f-803c-cbad7dfad907))
     (instances
-      (project "myra-sip"
+      (project "myra-sip-interposer"
         (path "/8cc48464-ca7e-4a25-bb97-c95aa06b811c"
           (reference "R2") (unit 1)
         )
@@ -6035,7 +6035,7 @@
     )
     (pin "1" (uuid 810f948f-8bbf-444c-bba4-1e8c9f0841c0))
     (instances
-      (project "myra-sip"
+      (project "myra-sip-interposer"
         (path "/8cc48464-ca7e-4a25-bb97-c95aa06b811c"
           (reference "#PWR08") (unit 1)
         )

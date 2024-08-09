@@ -408,7 +408,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "myra-sip.kicad_pro",
+    "filename": "myra-sip-interposer.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -467,7 +467,7 @@
       "netlist": "",
       "specctra_dsn": "",
       "step": "",
-      "vrml": "myra-sip.wrl"
+      "vrml": "myra-sip-interposer.wrl"
     },
     "page_layout_descr_file": ""
   },
