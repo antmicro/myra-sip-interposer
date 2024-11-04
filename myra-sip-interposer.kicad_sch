@@ -3830,7 +3830,7 @@
   )
 
   (symbol (lib_id "antmicroModules:Myra-231F1F08_CUSTOM_mirrored") (at 337.82 141.605 0) (unit 1)
-    (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom no) (on_board yes) (dnp yes) (fields_autoplaced)
     (uuid 32143d00-23c8-4e6d-807a-62b26db4a904)
     (property "Reference" "U5" (at 356.87 134.62 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)))
@@ -3858,6 +3858,9 @@
     )
     (property "GitHub" "https://github.com/antmicro/myra-sip-interposer " (at 393.7 154.305 0)
       (effects (font (size 1.27 1.27)) (justify left bottom) hide)
+    )
+    (property "DNP" "" (at 337.82 141.605 0)
+      (effects (font (size 1.27 1.27)))
     )
     (pin "Q3" (uuid 2ef5e164-b75c-447b-a238-9b4bd22b5e05))
     (pin "L1" (uuid 7d6d4ce6-b940-4a67-8bac-a24128f3e40f))
